@@ -2,7 +2,7 @@ This is the home for Klebsiella genomics tools and resources developed collabora
 
 ------
 
-<img src="kaptive_logo.png" alt="Kaptive" width="200">
+<img src="https://github.com/klebgenomics/.github/blob/main/profile/kaptive_logo.png" alt="Kaptive" width="200">
 
   
 [Kaptive](https://github.com/katholt/Kaptive) is commandline software for identifying surface polysaccharide loci (capsule and O antigen) from genome assemblies. It was initially developed for the _Klebsiella pneumoniae_ species complex, but also includes reference databases for _Acinetobacter baumannii_ and _Vibrio paramaemolyticus_. 
@@ -16,7 +16,7 @@ Major contributors are [Ryan Wick](https://github.com/rrwick), [Margaret Lam](ht
     
 ------
     
-<img src="kleborate-logo.png" alt="Kleborate" width="200">
+<img src="https://github.com/klebgenomics/.github/blob/main/profile/kleborate-logo.png" alt="Kleborate" width="200">
     
 Kleborate is a tool to screen genome assemblies of _Klebsiella pneumoniae_ and the _Klebsiella pneumoniae_ species complex (KpSC) for:
  * MLST sequence type
