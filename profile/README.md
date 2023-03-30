@@ -2,7 +2,7 @@ This is the home for Klebsiella genomics tools and resources developed collabora
 
 ------
 
-<img src="https://github.com/katholt/Kaptive/blob/master/extras/kaptive_logo.png" alt="Kaptive" width="200">
+<img src="kaptive_logo.png" alt="Kaptive" width="200">
 
   
 [Kaptive](https://github.com/katholt/Kaptive) is commandline software for identifying surface polysaccharide loci (capsule and O antigen) from genome assemblies. It was initially developed for the _Klebsiella pneumoniae_ species complex, but also includes reference databases for _Acinetobacter baumannii_ and _Vibrio paramaemolyticus_. 
