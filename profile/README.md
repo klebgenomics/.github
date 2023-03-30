@@ -38,7 +38,25 @@ Code and resources:
 Major contributors are [Ryan Wick](https://github.com/rrwick) and [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en).
     
 ------
-      
+
+### Analysing nanopore data
+
+Kaptive and Kleborate were initially developed with Illumina data in mind, i.e. assuming ~zero nucleotide errors in the consensus nucleotide sequence of genome assemblies. Long-read nanopore sequencing generates longer reads and more complete assemblies, but with 10s-100s of basecall errors in the consensus sequence that can potentially interfere with allele-based typing (although this is improving all the time, fortunately!).
+
+[This paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000936) explores the accuracy of Kaptive & Kleborate genotyping on genomes assembled solely from nanopore data (generated using Mk9.4.1 flowcells). We benchmark performance against genotypes called from Illumina-based assemblies, and hybrid Illumina+nanopore assemblies, using 55 _Klebsiella pneumoniae_ genomes. 
+
+Summary of results:
+* K/O typing: The correct K and O loci were detected in all genomes
+* Virulence: In genomes where virulence loci were present, they were detected and the correct lineage type reported
+* AMR: 96% of acquired AMR genes and 92% of AMR mutations were correctly identified
+* MLST: 87% of genomes yielded the correct 7-locus sequence type, the rest differed at 1-2 loci
+
+Note that better consensus sequences can now be obtained using more recent nanopore flowcells and chemistries, so we expect even better genotyping performance on newer assembly data (we are currently testing Mk10, stay tuned).
+
+Major contributors were [Ebenezer Foster-Nyarko](https://www.lshtm.ac.uk/aboutus/people/foster-nyarko.ebenezer) and Hugh Cottingham.
+
+------    
+
 ### Other resources from the team
   * [KleborateR](https://github.com/klebnet/KleborateR) - developed by Tom Stanton, for analysing Kaptive and Kleborate output
   * [Kleborate Workshop Data](https://github.com/klebgenomics/kleborate_workshop_data) - used in the [Kleborate Workshop](https://bit.ly/kleborate-workshop)
