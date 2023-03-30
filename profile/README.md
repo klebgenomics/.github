@@ -16,7 +16,7 @@ Major contributors are [Ryan Wick](https://github.com/rrwick), [Margaret Lam](ht
     
 ------
     
-<img src="https://github.com/katholt/Kleborate/raw/main/images/logo.png" alt="Kleborate" width="200">
+<img src="kleborate-logo.png" alt="Kleborate" width="200">
     
 Kleborate is a tool to screen genome assemblies of _Klebsiella pneumoniae_ and the _Klebsiella pneumoniae_ species complex (KpSC) for:
  * MLST sequence type
