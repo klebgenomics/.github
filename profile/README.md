@@ -1,4 +1,4 @@
-This is the home for Klebsiella genomics tools and resources developed collaboratively by the teams of [Kat Holt](https://holtlab.net) ([LSHTM](https://www.lshtm.ac.uk)) and Kelly Wyres (Monash University).
+This is the home for Klebsiella genomics tools and resources developed collaboratively by the teams of [Kat Holt](https://holtlab.net) ([LSHTM](https://www.lshtm.ac.uk)) and [Kelly Wyres](https://wyreslab.com/) ([Monash University](https://www.monash.edu/medicine/ccs/infectious-diseases/home)).
 
 ------
 
@@ -32,7 +32,7 @@ Major contributors are [Ryan Wick](https://github.com/rrwick), [Margaret Lam](ht
 Code and resources:
 * [Kleborate code](https://github.com/klebgenomics/kleborate) 
 * [Kleborate wiki](https://github.com/klebgenomics/Kleborate/wiki), including instructions and info on Kleborate logic
-* [Kleborate-viz](https://kleborate.erc.monash.edu/), a ShinyR app for visualising Kleborate output
+* [Kleborate-viz](https://kleborate.erc.monash.edu/), a ShinyR app for visualising Kleborate output (which hosts the [Kleborate-viz source code](https://github.com/klebgenomics/Kleborate-viz))
 * [Kleborate Tutorial](https://bit.ly/kleborate-workshop), illustrating how to use Kleborate and interpret the data
 
 Major contributors are [Ryan Wick](https://github.com/rrwick) and [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en).
@@ -61,6 +61,7 @@ Major contributors were [Ebenezer Foster-Nyarko](https://www.lshtm.ac.uk/aboutus
   * [KleborateR](https://github.com/klebnet/KleborateR) - developed by Tom Stanton, for analysing Kaptive and Kleborate output
   * [Kleborate Workshop Data](https://github.com/klebgenomics/kleborate_workshop_data) - used in the [Kleborate Workshop](https://bit.ly/kleborate-workshop)
   * [Klebs Genome Assemblies](https://github.com/klebgenomics/KlebsGenomes3) from the paper "Genomic analysis of diversity, population structure, virulence, and antimicrobial resistance in Klebsiella pneumoniae, an urgent threat to public health" [(Holt et al, 2015 PNAS)](https://doi.org/10.1073/pnas.1501049112)
+  * [KpSC-pan-metabolic-model](https://github.com/kelwyres/KpSC-pan-metabolic-model) - a pan genome-scale metabolic model for the _K. pneumoniae_ species complex developed for use as a reference with [Bactabolize](https://github.com/kelwyres/Bactabolize) - a pipeline for high-throughput generation of strain-specific metabolic models and growth phenotype predictions. Developed by [Kelly Wyres, Ben Vezina and Helena Cooper]((https://wyreslab.com/team)) with major contributions from [Jane Hawkey](https://research.monash.edu/en/persons/jane-hawkey) and [Stephen Watts](https://github.com/scwatts).
   
 ------
   
@@ -70,4 +71,4 @@ Together with Sylvain Brisse at the Institut Pasteur, we coordinate the KlebNet 
 
 #### KlebNet Genomic Surveillance Platform
 
-We also work in partnership with teams at the [Institut Pasteur](https://bigsdb.pasteur.fr/) and [Pathogenwatch](https://pathogen.watch/) to coordinate tools and platforms for Klebsiella genomic surveillance, under an initiative known as the [KlebNet Genomic Surveillance Platform](https://klebnet.org/).
+We also work in partnership with teams at the [Institut Pasteur](https://bigsdb.pasteur.fr/) and [Pathogenwatch](https://pathogen.watch/) to coordinate tools and platforms for _Klebsiella_ genomic surveillance, under an initiative known as the [KlebNet Genomic Surveillance Platform](https://klebnet.org/).
