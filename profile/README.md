@@ -11,7 +11,7 @@ You can also run a graphical version of Kaptive via [this web interface](http://
 
 Code and resources:
 * [Kaptive code](https://github.com/klebgenomics/Kaptive) 
-* [Kaptive wiki](https://github.com/klebgenomics/Kaptive/wiki), including instructions and info on Kaptive logic
+* [Kaptive docs](https://kaptive.readthedocs.io/en/latest/), including instructions and info on Kaptive logic
 * [Kaptive-Web](https://github.com/kelwyres/Kaptive-Web), an online version of Kaptive where you can upload genomes and visualise results
 * [Kaptive Tutorial](https://bit.ly/kaptive-workshop), illustrating how to use Kaptive and interpret the data
 
@@ -27,11 +27,11 @@ Major contributors are [Ryan Wick](https://github.com/rrwick), [Margaret Lam](ht
  * ICE<i>Kp</i> associated virulence loci: yersiniabactin (_ybt_), colibactin (_clb_), salmochelin (_iro_), hypermucoidy (_rmpA_)
  * virulence plasmid associated loci: salmochelin (_iro_), aerobactin (_iuc_), hypermucoidy (_rmpA_, _rmpA2_)
  * antimicrobial resistance determinants: acquired genes, SNPs, gene truncations and intrinsic β-lactamases
- * K (capsule) and O antigen (LPS) serotype prediction, via _wzi_ alleles and [Kaptive](https://github.com/katholt/Kaptive)
+ * K (capsule) and O antigen (LPS) serotype prediction, via _wzi_ alleles and [Kaptive](https://github.com/klebgenomics/Kaptive)
 
 Code and resources:
 * [Kleborate code](https://github.com/klebgenomics/kleborate) 
-* [Kleborate wiki](https://github.com/klebgenomics/Kleborate/wiki), including instructions and info on Kleborate logic
+* [Kleborate docs](https://kleborate.readthedocs.io/en/latest/), including instructions and info on Kleborate logic
 * [Kleborate-viz](https://kleborate.erc.monash.edu/), a ShinyR app for visualising Kleborate output (which hosts the [Kleborate-viz source code](https://github.com/klebgenomics/Kleborate-viz))
 * [Kleborate Tutorial](https://bit.ly/kleborate-workshop), illustrating how to use Kleborate and interpret the data
 
