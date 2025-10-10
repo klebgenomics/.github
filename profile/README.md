@@ -1,4 +1,4 @@
-This is the home for Klebsiella genomics tools and resources developed collaboratively by the teams of [Kat Holt](https://holtlab.net) ([LSHTM](https://www.lshtm.ac.uk)) and [Kelly Wyres](https://wyreslab.com/) ([Monash University](https://www.monash.edu/medicine/ccs/infectious-diseases/home)).
+This is the home for _Klebsiella_ genomics tools and resources developed collaboratively by the teams of [Kat Holt](https://holtlab.net) ([LSHTM](https://www.lshtm.ac.uk)) and [Kelly Wyres](https://wyreslab.com/) ([Monash University](https://www.monash.edu/medicine/ccs/infectious-diseases/home)).
 
 ------
 
