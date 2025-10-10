@@ -34,8 +34,10 @@ Code and resources:
 * [Kleborate docs](https://kleborate.readthedocs.io/en/latest/), including instructions and info on Kleborate logic
 * [Kleborate-viz](https://kleborate.erc.monash.edu/), a ShinyR app for visualising Kleborate output (which hosts the [Kleborate-viz source code](https://github.com/klebgenomics/Kleborate-viz))
 * [Kleborate Tutorial](https://docs.google.com/document/d/1R61bQbBngpiDB2Gl_eXigePBVakYZEjy/edit), illustrating how to use Kleborate and interpret the data
+* Details of Kleb specific AMR typing including [SHV alleles](https://doi.org/10.1099/mgen.0.001294) and [ciprofloxacin resistance prediction](https://github.com/klebgenomics/cipropaper)
+* [This paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000936) explores the accuracy of Kaptive & Kleborate genotyping on genomes assembled solely from nanopore data (generated using Mk9.4.1 flowcells). We benchmark performance against genotypes called from Illumina-based assemblies, and hybrid Illumina+nanopore assemblies, using 55 _Klebsiella pneumoniae_ genomes. 
 
-Major contributors are Kat Holt, Mary Maranga and [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en). Earlier versions were developed by [Ryan Wick](https://github.com/rrwick).
+Major contributors are Kat Holt, Mary Maranga, Margaret Lam, Ebenezer Foster-Nyarko and Kara Tsang. Earlier versions were developed by [Ryan Wick](https://github.com/rrwick).
     
 ------
 
@@ -77,24 +79,6 @@ Shiny app designed to identify transmission clusters among neonatal sepsis bacte
 * [App](https://klebsiella.shinyapps.io/transmission_estimator)
 
 (developed by Erkison Odih)
-
-------
-
-### Analysing nanopore data
-
-Kaptive and Kleborate were initially developed with Illumina data in mind, i.e. assuming ~zero nucleotide errors in the consensus nucleotide sequence of genome assemblies. Long-read nanopore sequencing generates longer reads and more complete assemblies, but with 10s-100s of basecall errors in the consensus sequence that can potentially interfere with allele-based typing (although this is improving all the time, fortunately!).
-
-[This paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000936) explores the accuracy of Kaptive & Kleborate genotyping on genomes assembled solely from nanopore data (generated using Mk9.4.1 flowcells). We benchmark performance against genotypes called from Illumina-based assemblies, and hybrid Illumina+nanopore assemblies, using 55 _Klebsiella pneumoniae_ genomes. 
-
-Summary of results:
-* K/O typing: The correct K and O loci were detected in all genomes
-* Virulence: In genomes where virulence loci were present, they were detected and the correct lineage type reported
-* AMR: 96% of acquired AMR genes and 92% of AMR mutations were correctly identified
-* MLST: 87% of genomes yielded the correct 7-locus sequence type, the rest differed at 1-2 loci
-
-Note that better consensus sequences can now be obtained using more recent nanopore flowcells and chemistries, so we expect even better genotyping performance on newer assembly data (we are currently testing Mk10, stay tuned).
-
-Major contributors are [Ebenezer Foster-Nyarko](https://www.lshtm.ac.uk/aboutus/people/foster-nyarko.ebenezer) and Hugh Cottingham.
 
 ------    
 
