@@ -15,7 +15,7 @@ Code and resources:
 * [Kaptive-Web](https://github.com/kelwyres/Kaptive-Web), an online version of Kaptive where you can upload genomes and visualise results
 * [Kaptive Tutorial](https://bit.ly/kaptive-workshop), illustrating how to use Kaptive and interpret the data
 
-Major contributors are [Ryan Wick](https://github.com/rrwick), [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en) and [Tom Stanton](https://github.com/orgs/klebnet/people/tomdstanton).
+Major contributors are Kelly Wyres and [Tom Stanton](https://github.com/orgs/klebnet/people/tomdstanton). Earlier versions were developed by [Ryan Wick](https://github.com/rrwick), with contributions from [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en) and Kat Holt.
     
 ------
     
@@ -44,12 +44,12 @@ Major contributors are Kat Holt, Mary Maranga and [Margaret Lam](https://scholar
 The KlebNET-GSP Epidemiology Consortium collates publicly available _K. pneumoniae_ species complex (KpSC) whole genome sequences with matched isolate source and sampling information, to support:
 
 * KlebNET Clone Reviews – collaborative genomic epidemiology reviews of globally distributed clones (e.g multi-drug resistant or hypervirulent clones);
-* KlebNET Clone Risk Framework – a systematic risk framework to support global genomic surveillance of  pneumoniae;
+* KlebNET Clone Risk Framework – a systematic risk framework to support global genomic surveillance of _K. pneumoniae_;
 * [KlebNET Metadata Repository](https://github.com/klebgenomics/KlebNET-Metadata-Repository-Database) – a comprehensive open-access repository of enhanced contextual meta-data, facilitating use and reuse of publicly available data by the global research community by enabling robust epidemiology and genomic meta-analyses.
 
 The consortium is coordinated by Kelly Wyres and Hina Salimuddin (Monash University, Australia) on behalf of the KlebNet-GSP and operates according to its [Terms of Reference](https://docs.google.com/document/d/12wuWxgucGVYnnKHZ8xvDCVLQhV0tEafCb2CuxClw0Hw/edit?usp=sharing).
 
-Participation in the consortium is contingent on contributing [contextual metadata]() for Klebsiella genome sequences that have been deposited in public databases, for inclusion in the [metadata repository](https://github.com/klebgenomics/KlebNET-Metadata-Repository-Database) and consortium analyses.
+Participation in the consortium is contingent on contributing [contextual metadata](https://github.com/klebgenomics/Klebsiella-genome-metadata/tree/main) for _Klebsiella_ genome sequences that have been deposited in public databases, for inclusion in the [metadata repository](https://github.com/klebgenomics/KlebNET-Metadata-Repository-Database) and consortium analyses.
 
 To join, please complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSe9yoXfh0MP_tqvWh7RqxFKXr30MMAQkeZ_sxhEPyIsQX43dQ/viewform).
 
@@ -60,7 +60,7 @@ Relevant repositories:
 
 ------
 
-### Klebsiella neonatal sepsis
+### _Klebsiella_ neonatal sepsis
 
 **K and O serotype distributions and coverage, from _Klebsiella pneumoniae_ neonatal sepsis in African and South Asian countries**
 
@@ -99,8 +99,8 @@ Major contributors are [Ebenezer Foster-Nyarko](https://www.lshtm.ac.uk/aboutus/
 ------    
 
 ### Other resources from the team
-  * [KlebRef](https://github.com/klebgenomics/KlebRef) - Database of genomic data and typing information for Klebsiella reference isolates available in public repositories
+  * [KlebRef](https://github.com/klebgenomics/KlebRef) - Database of genomic data and typing information for _Klebsiella_ reference isolates available in public repositories
   * [KleborateR](https://github.com/klebnet/KleborateR) - developed by Tom Stanton, for analysing Kaptive and Kleborate output
   * [Kleborate Workshop Data](https://github.com/klebgenomics/kleborate_workshop_data) - used in the [Kleborate Workshop](https://bit.ly/kleborate-workshop)
-  * [Klebs Genome Assemblies](https://github.com/klebgenomics/KlebsGenomes3) from the paper "Genomic analysis of diversity, population structure, virulence, and antimicrobial resistance in Klebsiella pneumoniae, an urgent threat to public health" [(Holt et al, 2015 PNAS)](https://doi.org/10.1073/pnas.1501049112)
+  * [Klebs Genome Assemblies](https://github.com/klebgenomics/KlebsGenomes3) from the paper "Genomic analysis of diversity, population structure, virulence, and antimicrobial resistance in _Klebsiella pneumoniae_, an urgent threat to public health" [(Holt et al, 2015 PNAS)](https://doi.org/10.1073/pnas.1501049112)
   * [KpSC-pan-metabolic-model](https://github.com/kelwyres/KpSC-pan-metabolic-model) - a pan genome-scale metabolic model for the _K. pneumoniae_ species complex developed for use as a reference with [Bactabolize](https://github.com/kelwyres/Bactabolize) - a pipeline for high-throughput generation of strain-specific metabolic models and growth phenotype predictions. Developed by [Kelly Wyres, Ben Vezina and Helena Cooper]((https://wyreslab.com/team)) with major contributions from [Jane Hawkey](https://research.monash.edu/en/persons/jane-hawkey) and [Stephen Watts](https://github.com/scwatts).
