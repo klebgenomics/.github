@@ -43,13 +43,13 @@ Major contributors are Kat Holt, Mary Maranga, Margaret Lam, Ebenezer Foster-Nya
 
 ### KlebNET-GSP Epi Consortium
 
-The KlebNET-GSP Epidemiology Consortium collates publicly available _K. pneumoniae_ species complex (KpSC) whole genome sequences with matched isolate source and sampling information, to support:
+The [KlebNET-GSP Epidemiology Consortium](https://klebnet.org/klebnet-gsp-epidemiology-consortium/) collates publicly available _K. pneumoniae_ species complex (KpSC) whole genome sequences with matched isolate source and sampling information, to support:
 
 * KlebNET Clone Reviews – collaborative genomic epidemiology reviews of globally distributed clones (e.g multi-drug resistant or hypervirulent clones);
 * KlebNET Clone Risk Framework – a systematic risk framework to support global genomic surveillance of _K. pneumoniae_;
 * [KlebNET Metadata Repository](https://github.com/klebgenomics/KlebNET-Metadata-Repository-Database) – a comprehensive open-access repository of enhanced contextual meta-data, facilitating use and reuse of publicly available data by the global research community by enabling robust epidemiology and genomic meta-analyses.
 
-The consortium is coordinated by Kelly Wyres and Hina Salimuddin (Monash University, Australia) on behalf of the KlebNet-GSP and operates according to its [Terms of Reference](https://docs.google.com/document/d/12wuWxgucGVYnnKHZ8xvDCVLQhV0tEafCb2CuxClw0Hw/edit?usp=sharing).
+The [Consortium](https://klebnet.org/klebnet-gsp-epidemiology-consortium/) is coordinated by Kelly Wyres and Hina Salimuddin (Monash University, Australia) on behalf of the [KlebNet-GSP](https://klebnet.org/) and operates according to its [Terms of Reference](https://docs.google.com/document/d/12wuWxgucGVYnnKHZ8xvDCVLQhV0tEafCb2CuxClw0Hw/edit?usp=sharing).
 
 Participation in the consortium is contingent on contributing [contextual metadata](https://github.com/klebgenomics/Klebsiella-genome-metadata/tree/main) for _Klebsiella_ genome sequences that have been deposited in public databases, for inclusion in the [metadata repository](https://github.com/klebgenomics/KlebNET-Metadata-Repository-Database) and consortium analyses.
 
