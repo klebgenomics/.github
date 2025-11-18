@@ -73,11 +73,9 @@ We recently published a [preprint](https://doi.org/10.1101/2025.06.28.25330253) 
 
 **Transmission estimator**
 
-The `transmission_estimator` Shiny app is designed to identify transmission clusters among neonatal sepsis bacterial isolates using genomic (genetic distance) and epidemiological (spatiotemporal) data was developed for this paper, and can be used to undertake cluster analysis with your own data. The app allows users to explore the impact of temoporal and distance thresholds on clustering estimates, and to visualise cluster fractions and timelines stratified by other variables such as location or sequence type.
+The `transmission_estimator` Shiny app is designed to identify transmission clusters among neonatal sepsis bacterial isolates using genomic (genetic distance) and epidemiological (spatiotemporal) data was developed for this paper, and can be used to undertake cluster analysis with your own data. The app allows users to explore the impact of temoporal and distance thresholds on clustering estimates, and to visualise cluster fractions and timelines stratified by other variables such as location or sequence type. (developed by Erkison Odih)
 * [Code](https://github.com/klebgenomics/transmission_estimator)
 * [App](https://klebsiella.shinyapps.io/transmission_estimator)
-
-(developed by Erkison Odih)
 
 We used the app in a recently published [preprint](https://www.medrxiv.org/content/10.1101/2025.11.15.25340095v1) presenting collaborative meta-analysis of transmission cluster rates amongst neonatal sepsis isolates from 27 hospitals across 13 countries.
 * Data, R code for analysis and visualisation, and all tables/figures from the paper are in this repository: [https://github.com/klebgenomics/KlebNNS_transmission](https://github.com/klebgenomics/KlebNNS_transmission) (developed by Erkison Odih)
