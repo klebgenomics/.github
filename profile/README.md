@@ -13,7 +13,7 @@ Code and resources:
 * [Kaptive code](https://github.com/klebgenomics/Kaptive) 
 * [Kaptive docs](https://kaptive.readthedocs.io/en/latest/), including instructions and info on Kaptive logic
 * [Kaptive-Web](https://github.com/kelwyres/Kaptive-Web), an online version of Kaptive where you can upload genomes and visualise results
-* [Kaptive Tutorial](https://bit.ly/kaptive-workshop), illustrating how to use Kaptive and interpret the data
+* [Kaptive Tutorial](https://docs.google.com/document/d/1EXZanC6uCbhAniVyJn91HOVD8JF6DLRZxmFPGs_nlME/edit?usp=sharing), illustrating how to use Kaptive and interpret the data
 
 Major contributors are Kelly Wyres and [Tom Stanton](https://github.com/orgs/klebnet/people/tomdstanton). Earlier versions were developed by [Ryan Wick](https://github.com/rrwick), with contributions from [Margaret Lam](https://scholar.google.com.au/citations?user=mjNrNqMAAAAJ&hl=en) and Kat Holt.
     
