@@ -5,14 +5,14 @@ This is the home for _Klebsiella_ genomics tools and resources developed collabo
 <img src="https://github.com/klebgenomics/.github/blob/main/profile/kaptive_logo.png" alt="Kaptive" width="200">
 
   
-[Kaptive](https://github.com/klebgenomics/Kaptive) is commandline software for identifying surface polysaccharide loci (capsule and O antigen) from genome assemblies. It was initially developed for the _Klebsiella pneumoniae_ species complex, but also includes reference databases for _Acinetobacter baumannii_ and _Vibrio paramaemolyticus_. 
+[Kaptive](https://github.com/klebgenomics/Kaptive) is commandline software for identifying surface polysaccharide loci (capsule and O antigen) from genome assemblies.
   
 You can also run a graphical version of Kaptive via [this web interface](http://kaptive-web.erc.monash.edu/) (which hosts [Kaptive-Web source code](https://github.com/kelwyres/Kaptive-Web)).
 
 Code and resources:
 * [Kaptive code](https://github.com/klebgenomics/Kaptive) 
 * [Kaptive docs](https://klebgenomics.github.io/Kaptive/), including instructions and info on Kaptive logic
-* [Kaptive-Web](https://kaptive-web.erc.monash.edu/), an online version of Kaptive where you can upload genomes and visualise results
+* [Kaptive-Web](https://kaptive-web.erc.monash.edu/](https://github.com/kelwyres/Kaptive-Web), an online version of Kaptive where you can upload genomes and visualise results
 * [Kaptive Tutorial](https://docs.google.com/document/d/1EXZanC6uCbhAniVyJn91HOVD8JF6DLRZxmFPGs_nlME/edit?usp=sharing), illustrating how to use Kaptive and interpret the data (based on an older version of Kaptive, but the underlying ideas are similar)
 * Kaptive databases for _Klebsiella pneumoniae_ Species Complex K and O loci can be found [here](https://github.com/klebgenomics/KpSC_surface_antigen_loci)
 * Kaptive databases for _Klebsiella oxytoca_ Species Complex K and O loci can be found [here](https://github.com/klebgenomics/KoSC-surface-antigen-loci/)
