@@ -36,7 +36,7 @@ Code and resources:
 
 [This paper](https://doi.org/10.1099/mgen.0.000936) explores the accuracy of Kaptive & Kleborate genotyping on genomes assembled solely from Oxford Nanopore data (generated using Mk9.4.1 flowcells). We benchmark performance against genotypes called from Illumina-based assemblies, and hybrid Illumina+nanopore assemblies, using 55 _Klebsiella pneumoniae_ genomes. 
 
-Major contributors are Kat Holt, Mary Maranga, Margaret Lam, Ebenezer Foster-Nyarko and Kara Tsang. Earlier versions were developed by [Ryan Wick](https://github.com/rrwick).
+Major contributors are Kat Holt, Mary Maranga, Margaret Lam, Ebenezer Foster-Nyarko and Kara Tsang. Earlier versions were developed by [Ryan Wick](https://github.com/rrwick), with contributions from Kelly Wyres.
     
 ------
 
